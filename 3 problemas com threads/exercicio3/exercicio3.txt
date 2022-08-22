@@ -1,0 +1,9 @@
+Acredito que essa seja uma situação possível somente se os dois métodos estão presentes na
+mesma thread ou se, por algum motivo, o método atualizar() esteja conectado ao método
+depositar() de modo que eles sempre rodem simultaneamente mas sem nem um mecanismo
+de sincronização entre eles, o que faz com que os dados fiquem inconsistentes. Se for o
+primeiro caso, a solução seria colocar os dois métodos em threads diferentes. Se for o segundo
+caso, uma solução seria descobrir o que está conectando as duas threads e resolver esse
+problema; outra solução (no caso dessa execução simultânea do método atualizar() ser
+proposital) é implementar formas de sincronização de threads, seja join() our sleep(), para
+manter uma maior consistência nos dados.
