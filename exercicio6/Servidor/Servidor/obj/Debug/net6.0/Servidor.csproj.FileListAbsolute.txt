@@ -1,0 +1,15 @@
+C:\Users\pietro.roque\source\repos\Sistemas Distribuídos\Sockets\exercicio6\Servidor\Servidor\bin\Debug\net6.0\Servidor.exe
+C:\Users\pietro.roque\source\repos\Sistemas Distribuídos\Sockets\exercicio6\Servidor\Servidor\bin\Debug\net6.0\Servidor.deps.json
+C:\Users\pietro.roque\source\repos\Sistemas Distribuídos\Sockets\exercicio6\Servidor\Servidor\bin\Debug\net6.0\Servidor.runtimeconfig.json
+C:\Users\pietro.roque\source\repos\Sistemas Distribuídos\Sockets\exercicio6\Servidor\Servidor\bin\Debug\net6.0\Servidor.dll
+C:\Users\pietro.roque\source\repos\Sistemas Distribuídos\Sockets\exercicio6\Servidor\Servidor\bin\Debug\net6.0\Servidor.pdb
+C:\Users\pietro.roque\source\repos\Sistemas Distribuídos\Sockets\exercicio6\Servidor\Servidor\obj\Debug\net6.0\Servidor.csproj.AssemblyReference.cache
+C:\Users\pietro.roque\source\repos\Sistemas Distribuídos\Sockets\exercicio6\Servidor\Servidor\obj\Debug\net6.0\Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietro.roque\source\repos\Sistemas Distribuídos\Sockets\exercicio6\Servidor\Servidor\obj\Debug\net6.0\Servidor.AssemblyInfoInputs.cache
+C:\Users\pietro.roque\source\repos\Sistemas Distribuídos\Sockets\exercicio6\Servidor\Servidor\obj\Debug\net6.0\Servidor.AssemblyInfo.cs
+C:\Users\pietro.roque\source\repos\Sistemas Distribuídos\Sockets\exercicio6\Servidor\Servidor\obj\Debug\net6.0\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\pietro.roque\source\repos\Sistemas Distribuídos\Sockets\exercicio6\Servidor\Servidor\obj\Debug\net6.0\Servidor.dll
+C:\Users\pietro.roque\source\repos\Sistemas Distribuídos\Sockets\exercicio6\Servidor\Servidor\obj\Debug\net6.0\refint\Servidor.dll
+C:\Users\pietro.roque\source\repos\Sistemas Distribuídos\Sockets\exercicio6\Servidor\Servidor\obj\Debug\net6.0\Servidor.pdb
+C:\Users\pietro.roque\source\repos\Sistemas Distribuídos\Sockets\exercicio6\Servidor\Servidor\obj\Debug\net6.0\Servidor.genruntimeconfig.cache
+C:\Users\pietro.roque\source\repos\Sistemas Distribuídos\Sockets\exercicio6\Servidor\Servidor\obj\Debug\net6.0\ref\Servidor.dll
